@@ -1,2 +1,2 @@
-#Travel Buddy
-This a simple travelling website made using django and a template webpage taken from colorlib
+Travel Buddy
+This a simple travelling website made using Django and a template webpage taken from colorlib
